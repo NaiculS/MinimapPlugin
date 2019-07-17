@@ -1,0 +1,9 @@
+name: MapPlugin
+version: Alpha
+author: NaiculS
+main: com.naiculs.minimap.Minimap
+description: Gives you a map that can't be moved or dropped
+commands:
+  map:
+    description: Gives you a map
+    usage: /map
